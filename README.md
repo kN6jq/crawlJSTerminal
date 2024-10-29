@@ -43,7 +43,7 @@ go build
 ### 基本用法
 
 ```bash
-./crawlJSTerminal -target example.com
+./crawlJSTerminal -target example.com -keywords example
 ```
 
 ### 完整参数说明
